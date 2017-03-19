@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>application/controllers/UpdateLokasiEmergencyUserController.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/UpdateLokasiEmergencyController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/views/admin/IdentitasPetugasView.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/LokasiEmergencyController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/ViewIdentitasPetugasController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/models/LokasiEmergencyModel.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/views/RegistrasiPetugasView.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/VerifyLoginController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/views/admin/UpdateLokasiEmergencyView.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/views/useremergency/TambahLokasiEmergencyViewUser.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/views/admin/map.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/UpdateLokasiEmergencyUserController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/models/RegistrasiUserModel.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/HomeUserController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/views/admin/TambahLokasiEmergencyView.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/LokasiEmergencyUserController.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/views/useremergency/UpdateLokasiEmergencyViewUser.php</file>
+            <file>file:/C:/xampp/htdocs/dashboardbandungemergency/application/controllers/RegistrasiUserController.php</file>
+        </group>
+    </open-files>
+</project-private>

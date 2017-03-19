@@ -1,0 +1,43 @@
+  <div   class="span10">
+             <table class="table table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Nama Lokasi</th>
+                    <th>Alamat Lokasi</th>
+                    <th>No Telepon</th>
+                    <th>Latitude</th>
+                    <th>Longitude</th>
+                    <th>Kategori Tempat</th>
+                    <th>Options</th>
+                </tr>
+                </thead>
+                <tbody>
+                <?php
+                $no=1;
+                if(isset($result_data)){
+                    foreach($result_data as $row){
+                        ?>
+                        <tr class="gradeX">
+                            <td><?php echo $no++; ?></td>
+                            <td><?php echo $row->namaLokasi; ?></td>
+                            <td><?php echo $row->alamatLokasi; ?></td>
+                            <td><?php echo $row->noTlp; ?></td>
+                            <td><?php echo $row->latitude; ?></td>
+                            <td><?php echo $row->longitude; ?></td>
+                            <td><?php echo $row->namaKategoriTempat; ?></td>
+                            <td>
+                                <a class="btn btn-mini btn-block btn-primary" href="#"
+                                   ><i class="icon-trash icon-white"></i>Update</a>
+                            </td>
+                        </tr>
+
+                    <?php }
+                }
+                ?>
+
+                </tbody>
+                </table>
+
+                       
+          </div>
